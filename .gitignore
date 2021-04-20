@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 
-#VSC env
+# VSC env
 .vscode
 vscode/
+
+# Extracted opinions
+opinions/*

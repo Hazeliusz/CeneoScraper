@@ -21,3 +21,15 @@
 
 3. extraction of single opinion components
 4. transformation of extracted data to given data types
+
+## Stage 2 - extraction of all opinions from single page
+1. definition of dictionary to store all components of single opinion
+2. definition of list for opinions dictionaries storing
+3. implementation of loop traversing through all opinions from single page
+
+## Stage 3 - extraction of all opinions for single product
+1. implementation of loop traversing through consectuive pages with opinions
+2. loading extracted opinions to .json file
+3. parametrization 
+
+## Stage 4 - refactoring
