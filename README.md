@@ -30,6 +30,14 @@
 ## Stage 3 - extraction of all opinions for single product
 1. implementation of loop traversing through consectuive pages with opinions
 2. loading extracted opinions to .json file
-3. parametrization 
+3. parametrization of product id and reading product id from standard input
 
 ## Stage 4 - refactoring
+1. implementation of component extraction function
+2. using dictionary with components selectors and comprehension for single opinion representation
+
+## Stage 5 - statistical analysis of extracted opinions
+1. displaying list of products for which opinions have been extracted
+2. 
+
+## Stage 6 - drawing charts based on given data
