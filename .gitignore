@@ -135,3 +135,6 @@ vscode/
 
 # Extracted opinions
 opinions/*
+
+# Figures
+figures/*
